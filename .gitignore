@@ -1,0 +1,4 @@
+.kitchen
+.pytest_cache
+*/.kitchen
+__pycache__
